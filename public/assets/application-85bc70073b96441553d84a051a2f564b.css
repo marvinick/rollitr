@@ -1,3 +1,5 @@
+
+
 .nav a {
   color: #5a5a5a;
   font-size: 11px;
@@ -8,10 +10,9 @@
 
 .nav li {
   display: inline;
-}
 
 .jumbotron {
-  background-image:url('http://cyberdistrict.com/tsushi/wp-content/uploads/sites/22/2013/08/Sushi_pic_1.jpeg');
+  background-image:url('http://goo.gl/04j7Nn');
   height: 500px;
 }
 

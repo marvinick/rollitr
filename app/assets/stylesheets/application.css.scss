@@ -12,7 +12,7 @@
 
 .jumbotron {
   height: 500px;
-  background-image: url(image-path('awesome roll.jpg'));
+  background-image: asset-data-url('awesome roll.jpg');
 }
 
 .jumbotron .container {

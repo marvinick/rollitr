@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'twitter-bootstrap-rails'
 gem "less-rails"
 gem "therubyracer"
+gem "rails_serve_static_assets"
 
 group :doc do
   gem 'sdoc', require: false

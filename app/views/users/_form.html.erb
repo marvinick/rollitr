@@ -1,6 +1,5 @@
 <div class="form">
-  <center>Your profile</center>
-  <hr/>
+  <center>Your profile
   <%= form_for @user, :html => {:multipart => true} do |f| %>
       <div class='control-group'>
         <%= f.label :name %>
@@ -14,7 +13,7 @@
         <%= f.label :password %>
         <%= f.password_field :password, class: "form-register" %>
       </div>
-      <hr/>
     <center><%= f.submit @user.new_record? ? "Sign up" : "Update", class: 'btn btn-success btn-lg' %></center>
     <% end %>
+    </center>
 </div>

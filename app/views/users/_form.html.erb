@@ -1,0 +1,20 @@
+<div class="form">
+  <center>Your profile</center>
+  <hr/>
+  <%= form_for @user, :html => {:multipart => true} do |f| %>
+      <div class='control-group'>
+        <%= f.label :name %>
+        <%= f.text_field :name, class: "form-register" %>
+      </div>
+      <div class='control-group'>
+        <%= f.label :email %>
+        <%= f.text_field :email, class: "form-register" %>
+      </div>
+       <div class='control-group'>
+        <%= f.label :password %>
+        <%= f.password_field :password, class: "form-register" %>
+      </div>
+      <hr/>
+    <center><%= f.submit @user.new_record? ? "Sign up" : "Update", class: 'btn btn-success btn-lg' %></center>
+    <% end %>
+</div>

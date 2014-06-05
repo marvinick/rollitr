@@ -97,12 +97,12 @@ body {
 
 //form
 .basic-grey {
-  width: 500px;
+  max-width: 600px;
   margin-right: auto;
   margin-left: auto;
   background: #EEE;
   padding: 20px 30px 20px 30px;
-  font: 12px Georgia, "Times New Roman", Times, serif;
+  font: 18px Georgia, "Times New Roman", Times, serif;
   color: #888;
   text-shadow: 1px 1px 1px #FFF;
   border:1px solid #DADADA;
@@ -135,19 +135,16 @@ body {
 .basic-grey input[type="text"], .basic-grey input[type="email"], .basic-grey input[type="password"], .basic-grey textarea,.basic-grey select{
   border: 1px solid #DADADA;
   color: #888;
-  height: 24px;
+  height: 40px;
   margin-bottom: 16px;
   margin-right: 6px;
   margin-top: 2px;
   outline: 0 none;
   padding: 3px 3px 3px 5px;
-  width: 70%;
-  font: normal 12px/12px Georgia, "Times New Roman", Times, serif;
+  width: 80%;
+  font: normal 20px/20px Georgia, "Times New Roman", Times, serif;
 }
 
-.basic-grey textarea{
-  height:100px;
-}
 .basic-grey .button {
   background: #E48F8F;
   border: none;

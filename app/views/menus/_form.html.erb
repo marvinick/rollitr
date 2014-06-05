@@ -1,0 +1,11 @@
+<div class="basic-grey">
+  <center>
+  <%= form_for @menu, :html => {:multipart => true} do |f| %>
+    <div class='control-group'>
+      <h3><span><%= f.label :menu %></span></h3>
+      <%= f.text_area :menu, class: "form-register", rows: 8 %>
+    </div>
+    <center><%= f.submit @menu.new_record? ? "Submit" : "Update", class: 'btn btn-success btn-lg' %></center>
+  <% end %>
+  </center>
+</div>

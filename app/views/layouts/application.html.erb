@@ -20,7 +20,7 @@
               <div class="row">
               <ul class="pull-left">
                 <li><%= link_to "Home", root_path %>
-                <li><a href="#">Menu</a></li>
+                <li><%= link_to "Menu", new_menu_path(@menu) %>
               </ul>
               <ul class="pull-right">
                 <%= link_to "Log In", new_user_path %>

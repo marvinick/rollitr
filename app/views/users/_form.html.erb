@@ -1,19 +1,20 @@
-<div class="form">
-  <center>Your profile
+<div class="basic-grey">
+  <center>
+    <h1>Start here</h1>
   <%= form_for @user, :html => {:multipart => true} do |f| %>
       <div class='control-group'>
-        <%= f.label :name %>
+        <h3><span><%= f.label :name %></span></h3>
         <%= f.text_field :name, class: "form-register" %>
       </div>
       <div class='control-group'>
-        <%= f.label :email %>
+        <h3><span><%= f.label :email %></span></h3>
         <%= f.text_field :email, class: "form-register" %>
       </div>
        <div class='control-group'>
-        <%= f.label :password %>
+        <h3><span><%= f.label :password %></span></h3>
         <%= f.password_field :password, class: "form-register" %>
       </div>
-    <center><%= f.submit @user.new_record? ? "Sign up" : "Update", class: 'btn btn-success btn-lg' %></center>
+    <center><%= f.submit @user.new_record? ? "Sign in" : "Update", class: 'btn btn-success btn-lg' %></center>
     <% end %>
     </center>
 </div>

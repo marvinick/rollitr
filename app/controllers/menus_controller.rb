@@ -11,14 +11,34 @@ class MenusController < ApplicationController
     @menu = Menu.new(menu_params)
 
     if @menu.save
-      redirect_to menus_path
+      redirect_to menu_path(@menu)
     else
       render :new
     end
   end
 
+  def show
+    @menu = Menu.find(params[:id])
+    @menus = Menu.all
+  end
+
+  def edit
+    @menu = Menu.find(params[:id])
+  end
+
+  def update
+    @menu = Menu.find(params[:id])
+
+    if @menu.update
+      redirect_to menu_path(@menu)
+    else
+      render :edit
+    end
+  end
+
+
   private
-    def menus_params
+    def menu_params
       params.require(:menu).permit(:menu)
     end
 end

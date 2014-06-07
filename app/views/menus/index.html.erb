@@ -1,0 +1,6 @@
+<div class="basic-grey">
+  <% @menus.each do |menu| %>
+  <li><%= menu.menu %></li>
+  <%= link_to "open", menu_path(menu.id) %>
+  <% end %>
+</div>

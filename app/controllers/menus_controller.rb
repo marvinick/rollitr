@@ -28,7 +28,7 @@ class MenusController < ApplicationController
   def update
     @menu = Menu.find(params[:id])
 
-    if @menu.update
+    if @menu.update(menu_params)
       redirect_to menu_path(@menu)
     else
       render :edit
@@ -38,6 +38,6 @@ class MenusController < ApplicationController
 
   private
     def menu_params
-      params.require(:menu).permit(:menu)
+      params.require(:menu).permit(:menu, :hotfood)
     end
 end

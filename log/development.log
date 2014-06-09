@@ -38685,3 +38685,26 @@ Processing by UsersController#new as HTML
   Rendered users/_form.html.erb (2.2ms)
   Rendered users/new.html.erb within layouts/application (3.0ms)
 Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/menus" for 127.0.0.1 at 2014-06-09 16:58:58 -0500
+Processing by MenusController#index as HTML
+  [1m[36mMenu Load (0.2ms)[0m  [1mSELECT "menus".* FROM "menus"[0m
+  Rendered menus/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/menus/1" for 127.0.0.1 at 2014-06-09 16:59:00 -0500
+Processing by MenusController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMenu Load (0.1ms)[0m  SELECT "menus".* FROM "menus" WHERE "menus"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered menus/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 14ms (Views: 12.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/menus/2" for 127.0.0.1 at 2014-06-09 16:59:03 -0500
+Processing by MenusController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mMenu Load (0.1ms)[0m  [1mSELECT "menus".* FROM "menus" WHERE "menus"."id" = ? LIMIT 1[0m  [["id", "2"]]
+  Rendered menus/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.1ms)

@@ -1,10 +1,14 @@
-<center><p>Our Menu</p></center>
+<center><h3 color="red">Our Menu</h3</center>
 <div class="menu">
   <div class="more-grey">
     <ul>
+      <%= @menu.title %>
+      <hr/>
       <%= @menu.menu %>
-      <small><%= link_to "Edit", edit_menu_path %></small>
+      <hr/>
+      <td><small><%= link_to "Edit", edit_menu_path %></small></td>
     </ul>
   </div>
+</div>
 
 

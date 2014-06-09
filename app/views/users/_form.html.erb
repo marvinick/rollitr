@@ -1,6 +1,6 @@
 <div class="basic-grey">
   <center>
-    <h1>Start here</h1>
+  <h1>Sign in</h1>
   <%= form_for @user, :html => {:multipart => true} do |f| %>
       <div class='control-group'>
         <h3><span><%= f.label :name %></span></h3>
@@ -16,6 +16,5 @@
       </div>
     <center><%= f.submit @user.new_record? ? "Sign in" : "Update", class: 'btn btn-success btn-lg' %></center>
     <% end %>
-    <%= link_to "Home", root_path %>
     </center>
 </div>

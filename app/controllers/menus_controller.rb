@@ -11,7 +11,7 @@ class MenusController < ApplicationController
     @menu = Menu.new(menu_params)
 
     if @menu.save
-      redirect_to menu_path(@menu)
+      redirect_to menus_path(@menus)
     else
       render :new
     end
@@ -38,6 +38,6 @@ class MenusController < ApplicationController
 
   private
     def menu_params
-      params.require(:menu).permit(:menu, :hotfood)
+      params.require(:menu).permit(:menu, :hotfood, :title)
     end
 end

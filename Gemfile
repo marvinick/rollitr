@@ -17,7 +17,8 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'bcrypt'
+gem 'bcrypt-ruby', '~> 3.1.2'
+
 gem 'unicorn'
 
 # gem 'capistrano', group: :development

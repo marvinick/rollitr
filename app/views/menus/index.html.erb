@@ -1,8 +1,8 @@
 <div class="basic-grey">
   <% @menus.each do |menu| %>
-  <h2><li><%= menu.menu %></li></h2>
-  <small><li><%= menu.created_at %></li></small>
-  <small><li><%= menu.updated_at %></li></small>
+  <h2><li><%= menu.title %></li></h2>
+  <small><li>Created at<%= menu.created_at %></li></small>
+  <small><li>Updated at<%= menu.updated_at %></li></small>
   <%= link_to "Look", menu_path(menu.id) %>
   <%= link_to "Create", new_menu_path %>
   <% end %>

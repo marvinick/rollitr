@@ -1,4 +1,4 @@
-<center><h3 color="red">Our Menu</h3</center>
+<center><h3>Our Menu</h3</center>
 <div class="menu">
   <div class="more-grey">
     <ul>
@@ -6,8 +6,10 @@
       <hr/>
       <%= @menu.menu %>
       <hr/>
-      <td><small><%= link_to "Edit", edit_menu_path %></small></td>
     </ul>
+    <% if logged_in? %>
+      <td><small><%= link_to "Edit", edit_menu_path %></small></td>
+    <% end %>
   </div>
 </div>
 

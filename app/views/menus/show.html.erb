@@ -1,15 +1,45 @@
-<center><h3>Our Menu</h3</center>
-<div class="menu">
-  <div class="more-grey">
-    <ul>
-      <%= @menu.title %>
-      <hr/>
-      <%= @menu.menu %>
-      <hr/>
-    </ul>
-    <% if logged_in? %>
-      <td><small><%= link_to "Edit", edit_menu_path %></small></td>
-    <% end %>
+<center><h3>Menu</h3</center>
+<div class="container">
+  <div class="row">
+    <div class='col-md-4'>
+      <div class="more-grey">
+        <ul>
+          <%= @menu.title %>
+          <hr/>
+          <%= @menu.menu %>
+          <hr/>
+        </ul>
+        <% if logged_in? %>
+          <td><small><%= link_to "Edit", edit_menu_path %></small></td>
+        <% end %>
+      </div>
+    </div>
+    <div class='col-md-4'>
+      <div class="little-grey">
+        <ul>
+          <%= @menu.title %>
+          <hr/>
+          <%= @menu.menu %>
+          <hr/>
+        </ul>
+        <% if logged_in? %>
+          <td><small><%= link_to "Edit", edit_menu_path %></small></td>
+        <% end %>
+      </div>
+    </div>
+    <div class='col-md-4'>
+      <div class="most-grey">
+        <ul>
+          <%= @menu.title %>
+          <hr/>
+          <%= @menu.menu %>
+          <hr/>
+        </ul>
+        <% if logged_in? %>
+          <td><small><%= link_to "Edit", edit_menu_path %></small></td>
+        <% end %>
+      </div>
+    </div>
   </div>
 </div>
 

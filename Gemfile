@@ -12,6 +12,7 @@ gem 'twitter-bootstrap-rails'
 gem "less-rails"
 gem "therubyracer"
 gem "rails_serve_static_assets"
+gem 'omniauth'
 
 group :doc do
   gem 'sdoc', require: false

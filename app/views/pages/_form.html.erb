@@ -1,0 +1,15 @@
+<div class="basic-grey">
+  <center>
+  <%= form_for @page, :html => {:multipart => true} do |f| %>
+    <div class='control-group'>
+      <%= f.label :title %>
+      <%= f.text_field :title %>
+      <%= f.label :name %>
+      <%= f.text_field :name %>
+      <%= f.label :email %>
+      <%= f.text_field :email %>
+    </div>
+    <center><%= f.submit @page.new_record? ? "Submit" : "Update", class: 'btn btn-success btn-lg' %></center>
+  <% end %>
+  </center>
+</div>

@@ -3,9 +3,12 @@
   <body>
     <div class="jumbotron">
       <div class="container">
-        <h1>Get yo' sushi, now!</h1>
-        <p>fresh? raw? cooked? greasy? a little bit of everything? don't want to tip? OK!</p>
-        <%= link_to "Menu", new_menu_path(@menu) %>
+        <h1>Get your sushi fix now!</h1>
+        <h4>Join our newsletter</h4>
+        <form>
+          <input type="text" name="email">
+          <button type="button" class="btn btn-success">Submit</button>
+        </form>
       </div>
     </div>
     <div class="neighborhood-guides">

@@ -1,6 +1,7 @@
 class PagesController < ApplicationController
 def index
   @pages = Page.all
+  @user = User.new
 end
 
 def new

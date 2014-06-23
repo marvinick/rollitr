@@ -1,6 +1,6 @@
 Rollitr::Application.routes.draw do
   resources :pages
-  root to: "pages#index"
+  root to: "users#index"
   resources :users
   resources :menus
 

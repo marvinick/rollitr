@@ -25,8 +25,12 @@ end
 
 private
 
-def page_params
-  params.require(:page).permit(:title, :name, :email)
-end
+  def page_params
+    params.require(:page).permit(:title, :name, :email)
+  end
+
+  def user_params
+    params.require(:user).permit(:name, :email, :password)
+  end
 
 end

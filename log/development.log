@@ -65286,3 +65286,666 @@ Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:34:39 -
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:34:39 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:37:20 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 21ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 42ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (1.1ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 19ms (Views: 16.6ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:01 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:02 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:02 -0500
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (5.5ms)
+  Rendered users/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 22ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:03 -0500
+
+
+Started POST "/users" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gh6iOqHJtOcpb2QxNQKi9Ioqe/Ggpb6FFLJShOSNn6c=", "user"=>{"name"=>"marvki", "email"=>"marvin8214@gmail.com", "password"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  begin transaction
+Binary data inserted for `string` type on column `password_digest`
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "users" ("email", "name", "password_digest") VALUES (?, ?, ?)[0m  [["email", "marvin8214@gmail.com"], ["name", "marvki"], ["password_digest", "$2a$10$Tw7/GhJ2mU3ZGCZ3lLFA3O40x4itN94txq2H.cVKvBejz96UpF2f6"]]
+  [1m[35m (2.3ms)[0m  commit transaction
+  Rendered app_mailer/signup_confirmation.text.erb (0.1ms)
+
+Sent mail to marvin8214@gmail.com (21.1ms)
+Date: Mon, 23 Jun 2014 15:38:20 -0500
+From: marvin8214@gmail.com
+To: marvin8214@gmail.com
+Message-ID: <53a8903c91533_42183204c10568b1@mcair.local.mail>
+Subject: Get ready for some great food!
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+marvki,
+
+Awesome! You just wait for my food extravaganza updates!
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 169ms (ActiveRecord: 3.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 22ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:20 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:38:21 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:42:25 -0500
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT "pages".* FROM "pages"[0m
+Completed 500 Internal Server Error in 23ms
+
+NameError (undefined local variable or method `user_params' for #<PagesController:0x000001063b2390>):
+  app/controllers/pages_controller.rb:5:in `index'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (25.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:43:07 -0500
+Processing by PagesController#index as HTML
+Completed 400 Bad Request in 8ms
+
+ActionController::ParameterMissing (param not found: user):
+  app/controllers/pages_controller.rb:34:in `user_params'
+  app/controllers/pages_controller.rb:5:in `index'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:45:28 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 27ms (Views: 19.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:45:28 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:45:28 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:28 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:28 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:28 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:45:29 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.4ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+     5:       <div class="container">
+     6:         <h1>ITR: On the Roll</h1>
+     7:         <form>
+     8:           <%= form_for @user, :html => {:multipart => true} do |f| %>
+     9:           <div class='control-group'>
+    10:             <h3><span><%= f.label :Newsletter %></span></h3>
+    11:             <%= f.text_field :email, class: "form-register" %>
+  app/views/users/index.html.erb:8:in `_app_views_users_index_html_erb__3424945297695834498_2201340320'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (19.7ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:45:51 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.8ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+     5:       <div class="container">
+     6:         <h1>ITR: On the Roll</h1>
+     7:         <form>
+     8:           <%= form_for @user, :html => {:multipart => true} do |f| %>
+     9:           <div class='control-group'>
+    10:             <h3><span><%= f.label :Newsletter %></span></h3>
+    11:             <%= f.text_field :email, class: "form-register" %>
+  app/views/users/index.html.erb:8:in `_app_views_users_index_html_erb__3424945297695834498_2201340320'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (14.1ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:45:53 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 5ms
+
+ActionView::Template::Error (First argument in form cannot contain nil or be empty):
+     5:       <div class="container">
+     6:         <h1>ITR: On the Roll</h1>
+     7:         <form>
+     8:           <%= form_for @user, :html => {:multipart => true} do |f| %>
+     9:           <div class='control-group'>
+    10:             <h3><span><%= f.label :Newsletter %></span></h3>
+    11:             <%= f.text_field :email, class: "form-register" %>
+  app/views/users/index.html.erb:8:in `_app_views_users_index_html_erb__3424945297695834498_2201340320'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (13.5ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 23ms (Views: 16.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:00 -0500
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 23ms (Views: 16.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:35 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 22ms (Views: 19.8ms | ActiveRecord: 0.0ms)

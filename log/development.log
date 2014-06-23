@@ -65949,3 +65949,1291 @@ Started GET "/" for 127.0.0.1 at 2014-06-23 15:46:36 -0500
 Processing by UsersController#index as HTML
   Rendered users/index.html.erb within layouts/application (3.1ms)
 Completed 200 OK in 22ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 15ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:29 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:30 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:53:42 -0500
+
+
+Started GET "/pages" for 127.0.0.1 at 2014-06-23 15:53:43 -0500
+Processing by PagesController#index as HTML
+ERROR: compiling _app_views_pages_index_html_erb__3873318763709196542_2200246680 RAISED /Users/marvin8214/Desktop/rollitr/app/views/pages/index.html.erb:7: syntax error, unexpected keyword_class, expecting ')'
+...er", new_user_path(@user) class="btn btn-lg btn-success" );@...
+...                               ^
+Function body:           def _app_views_pages_index_html_erb__3873318763709196542_2200246680(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "pages/index";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_append='<!DOCTYPE html>
+<html>
+  <body>
+    <div class="jumbotron">
+      <div class="container">
+        <h1>ITR: On the Roll</h1>
+        ';@output_buffer.append=( link_to "Join Our Newsletter", new_user_path(@user) class="btn btn-lg btn-success" );@output_buffer.safe_append='
+        </form>
+      </div>
+    </div>
+    <div class="neighborhood-guides">
+      <div class="container">
+        <center>
+          <h2>Our specialties</h2>
+              <p>Not sure what to eat? Try one of our favorites</p>
+            </center><br/>
+              <div class="row">
+                  <div class="col-md-4">
+                      <div class="thumbnail">
+                        <img src="http://www.dineouthere.com/images/sushi-town-17.jpg">
+                        <p><strong>The Daddy Roll</strong>. It has some fried stuff element to it, you\'ll like it</p>
+                      </div>
+                      <div class="thumbnail">
+                        <img src="http://www.tulsapeople.com/in%20the%20raw5689.jpg">
+                        <center><p>I think it\'s a <strong>Candy Roll</strong><p></center>
+                      </div>
+                  </div>
+                   <div class="col-md-4">
+                      <div class="thumbnail">
+                        <img src="http://wwwdelivery.superstock.com/WI/223/1532/PreviewComp/SuperStock_1532R-55256.jpg">
+                         <p>A fried roll, what else do you need to know?</p>
+                      </div>
+                      <div class="thumbnail">
+                        <img src="http://www.travelandleisure.com/images/amexpub/0034/2887/201212-w-best-sushi-restaurants-roka-akor.jpg">
+                        <p>We even semi-cook our nigiri, just to be safe</p>
+
+                      </div>
+                  </div>
+                   <div class="col-md-4">
+                      <div class="thumbnail">
+                          <img src="http://cookingontheweekends.com/wp-content/uploads/2012/05/April13-Shrimp-Ceviche31.jpg">
+                          <p>Ceviche on a martini glass, can\'t get more original than this!</p>
+                      </div>
+                  </div>
+              </div>
+          </h2>
+      </div>
+    </div>
+    <div class="learn-more">
+      <center><h2>Why us?</h2></center><br/>
+    <div class="container">
+     <div class="row">
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <img src="http://i2.ytimg.com/vi/f0j3-nd3kJo/hqdefault.jpg">
+          </div>
+          <h3>Executive Chef</h3>
+          <p>Leo Bandana? The Big Kahuna? Magic Leo?</p>
+          <p><a href="#">See him works out</a></p>
+        </div>
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <img src="http://www.tulsagrit.com/images/full-780/in-the-raw-food-truck.jpg">
+          </div>
+          <h3>Multiple locations</h3>
+          <p>It\'s a food truck! Our location changes everyday. </p>
+          <p><a href="#">Learn more</a></p>
+        </div>
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <img src="http://a4.urbancdn.com/w/s/Su/M3DInxMUimhaQ0-640m.jpg">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <h3>Trust our brand</h3>
+          <p>It\'s essentially In the Raw without tipping your server :) Unless you really want to </p>
+          <p><a href="#">Learn more</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </body>
+  <hr/>
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <center><p>developed by &#0153;Seasalt Studio</p></center>
+        </div>
+      </div>
+    </div>
+  </footer>
+</html>';@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:299:in `module_eval'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:299:in `compile'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:248:in `block in compile!'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:236:in `synchronize'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:236:in `compile!'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:142:in `block in render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:161:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:141:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `block in instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:17:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/renderer.rb:23:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:127:in `_render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/streaming.rb:219:in `_render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:120:in `render_to_body'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:97:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:16:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/base.rb:189:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:403:in `_run__3560991492106616696__process_action__callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `block in instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/base.rb:136:in `process'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:44:in `process'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal.rb:195:in `dispatch'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal.rb:231:in `block in action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:80:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:48:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:71:in `block in call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:59:in `each'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:59:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:680:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/etag.rb:23:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/conditionalget.rb:25:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/flash.rb:241:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/cookies.rb:486:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/query_cache.rb:36:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/migration.rb:369:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:373:in `_run__1873190154720303266__call__callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/reloader.rb:64:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/rack/logger.rb:38:in `call_app'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/rack/logger.rb:20:in `block in call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:67:in `block in tagged'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:25:in `tagged'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:67:in `tagged'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/rack/logger.rb:20:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/runtime.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/static.rb:64:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/sendfile.rb:112:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/engine.rb:511:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/application.rb:97:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+  Rendered pages/index.html.erb within layouts/application (7.8ms)
+Completed 500 Internal Server Error in 15ms
+
+ActionView::Template::Error (/Users/marvin8214/Desktop/rollitr/app/views/pages/index.html.erb:7: syntax error, unexpected keyword_class, expecting ')'
+...er", new_user_path(@user) class="btn btn-lg btn-success" );@...
+...                               ^):
+    4:     <div class="jumbotron">
+    5:       <div class="container">
+    6:         <h1>ITR: On the Roll</h1>
+    7:         <%= link_to "Join Our Newsletter", new_user_path(@user) class="btn btn-lg btn-success" %>
+    8:         </form>
+    9:       </div>
+   10:     </div>
+  actionpack (4.0.1) lib/action_view/template.rb:299:in `module_eval'
+  actionpack (4.0.1) lib/action_view/template.rb:299:in `compile'
+  actionpack (4.0.1) lib/action_view/template.rb:248:in `block in compile!'
+  actionpack (4.0.1) lib/action_view/template.rb:236:in `synchronize'
+  actionpack (4.0.1) lib/action_view/template.rb:236:in `compile!'
+  actionpack (4.0.1) lib/action_view/template.rb:142:in `block in render'
+  activesupport (4.0.1) lib/active_support/notifications.rb:161:in `instrument'
+  actionpack (4.0.1) lib/action_view/template.rb:141:in `render'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+  actionpack (4.0.1) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:17:in `render'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:127:in `_render_template'
+  actionpack (4.0.1) lib/action_controller/metal/streaming.rb:219:in `_render_template'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:120:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:97:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:403:in `_run__3560991492106616696__process_action__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__1873190154720303266__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (17.3ms)
+
+
+Started GET "/pages" for 127.0.0.1 at 2014-06-23 15:53:52 -0500
+Processing by PagesController#index as HTML
+ERROR: compiling _app_views_pages_index_html_erb__3873318763709196542_2198606840 RAISED /Users/marvin8214/Desktop/rollitr/app/views/pages/index.html.erb:7: syntax error, unexpected '='
+...", new_user_path(@user), class="btn btn-lg btn-success" );@o...
+...                               ^
+Function body:           def _app_views_pages_index_html_erb__3873318763709196542_2198606840(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "pages/index";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_append='<!DOCTYPE html>
+<html>
+  <body>
+    <div class="jumbotron">
+      <div class="container">
+        <h1>ITR: On the Roll</h1>
+        ';@output_buffer.append=( link_to "Join Our Newsletter", new_user_path(@user), class="btn btn-lg btn-success" );@output_buffer.safe_append='
+        </form>
+      </div>
+    </div>
+    <div class="neighborhood-guides">
+      <div class="container">
+        <center>
+          <h2>Our specialties</h2>
+              <p>Not sure what to eat? Try one of our favorites</p>
+            </center><br/>
+              <div class="row">
+                  <div class="col-md-4">
+                      <div class="thumbnail">
+                        <img src="http://www.dineouthere.com/images/sushi-town-17.jpg">
+                        <p><strong>The Daddy Roll</strong>. It has some fried stuff element to it, you\'ll like it</p>
+                      </div>
+                      <div class="thumbnail">
+                        <img src="http://www.tulsapeople.com/in%20the%20raw5689.jpg">
+                        <center><p>I think it\'s a <strong>Candy Roll</strong><p></center>
+                      </div>
+                  </div>
+                   <div class="col-md-4">
+                      <div class="thumbnail">
+                        <img src="http://wwwdelivery.superstock.com/WI/223/1532/PreviewComp/SuperStock_1532R-55256.jpg">
+                         <p>A fried roll, what else do you need to know?</p>
+                      </div>
+                      <div class="thumbnail">
+                        <img src="http://www.travelandleisure.com/images/amexpub/0034/2887/201212-w-best-sushi-restaurants-roka-akor.jpg">
+                        <p>We even semi-cook our nigiri, just to be safe</p>
+
+                      </div>
+                  </div>
+                   <div class="col-md-4">
+                      <div class="thumbnail">
+                          <img src="http://cookingontheweekends.com/wp-content/uploads/2012/05/April13-Shrimp-Ceviche31.jpg">
+                          <p>Ceviche on a martini glass, can\'t get more original than this!</p>
+                      </div>
+                  </div>
+              </div>
+          </h2>
+      </div>
+    </div>
+    <div class="learn-more">
+      <center><h2>Why us?</h2></center><br/>
+    <div class="container">
+     <div class="row">
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <img src="http://i2.ytimg.com/vi/f0j3-nd3kJo/hqdefault.jpg">
+          </div>
+          <h3>Executive Chef</h3>
+          <p>Leo Bandana? The Big Kahuna? Magic Leo?</p>
+          <p><a href="#">See him works out</a></p>
+        </div>
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <img src="http://www.tulsagrit.com/images/full-780/in-the-raw-food-truck.jpg">
+          </div>
+          <h3>Multiple locations</h3>
+          <p>It\'s a food truck! Our location changes everyday. </p>
+          <p><a href="#">Learn more</a></p>
+        </div>
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <img src="http://a4.urbancdn.com/w/s/Su/M3DInxMUimhaQ0-640m.jpg">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <h3>Trust our brand</h3>
+          <p>It\'s essentially In the Raw without tipping your server :) Unless you really want to </p>
+          <p><a href="#">Learn more</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </body>
+  <hr/>
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <center><p>developed by &#0153;Seasalt Studio</p></center>
+        </div>
+      </div>
+    </div>
+  </footer>
+</html>';@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:299:in `module_eval'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:299:in `compile'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:248:in `block in compile!'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:236:in `synchronize'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:236:in `compile!'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:142:in `block in render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:161:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/template.rb:141:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `block in instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/template_renderer.rb:17:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/renderer.rb:42:in `render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_view/renderer/renderer.rb:23:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:127:in `_render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/streaming.rb:219:in `_render_template'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:120:in `render_to_body'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:97:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:16:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/core_ext/benchmark.rb:12:in `ms'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/base.rb:189:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:403:in `_run__3560991492106616696__process_action__callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `block in instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/notifications.rb:159:in `instrument'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/base.rb:136:in `process'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/abstract_controller/rendering.rb:44:in `process'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal.rb:195:in `dispatch'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_controller/metal.rb:231:in `block in action'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:80:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:48:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:71:in `block in call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:59:in `each'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/journey/router.rb:59:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/routing/route_set.rb:680:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/etag.rb:23:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/conditionalget.rb:25:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/flash.rb:241:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:225:in `context'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/session/abstract/id.rb:220:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/cookies.rb:486:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/query_cache.rb:36:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activerecord-4.0.1/lib/active_record/migration.rb:369:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:373:in `_run__1873190154720303266__call__callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/reloader.rb:64:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/rack/logger.rb:38:in `call_app'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/rack/logger.rb:20:in `block in call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:67:in `block in tagged'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:25:in `tagged'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/tagged_logging.rb:67:in `tagged'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/rack/logger.rb:20:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/runtime.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/activesupport-4.0.1/lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/static.rb:64:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/sendfile.rb:112:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/engine.rb:511:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/railties-4.0.1/lib/rails/application.rb:97:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+/usr/local/rvm/gems/ruby-2.0.0-p481/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+/usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+  Rendered pages/index.html.erb within layouts/application (9.6ms)
+Completed 500 Internal Server Error in 14ms
+
+ActionView::Template::Error (/Users/marvin8214/Desktop/rollitr/app/views/pages/index.html.erb:7: syntax error, unexpected '='
+...", new_user_path(@user), class="btn btn-lg btn-success" );@o...
+...                               ^):
+    4:     <div class="jumbotron">
+    5:       <div class="container">
+    6:         <h1>ITR: On the Roll</h1>
+    7:         <%= link_to "Join Our Newsletter", new_user_path(@user), class="btn btn-lg btn-success" %>
+    8:         </form>
+    9:       </div>
+   10:     </div>
+  actionpack (4.0.1) lib/action_view/template.rb:299:in `module_eval'
+  actionpack (4.0.1) lib/action_view/template.rb:299:in `compile'
+  actionpack (4.0.1) lib/action_view/template.rb:248:in `block in compile!'
+  actionpack (4.0.1) lib/action_view/template.rb:236:in `synchronize'
+  actionpack (4.0.1) lib/action_view/template.rb:236:in `compile!'
+  actionpack (4.0.1) lib/action_view/template.rb:142:in `block in render'
+  activesupport (4.0.1) lib/active_support/notifications.rb:161:in `instrument'
+  actionpack (4.0.1) lib/action_view/template.rb:141:in `render'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:49:in `block (2 levels) in render_template'
+  actionpack (4.0.1) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:48:in `block in render_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:56:in `render_with_layout'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:47:in `render_template'
+  actionpack (4.0.1) lib/action_view/renderer/template_renderer.rb:17:in `render'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionpack (4.0.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:127:in `_render_template'
+  actionpack (4.0.1) lib/action_controller/metal/streaming.rb:219:in `_render_template'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:120:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:33:in `render_to_body'
+  actionpack (4.0.1) lib/action_controller/metal/renderers.rb:26:in `render_to_body'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:97:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/benchmark.rb:296:in `realtime'
+  activesupport (4.0.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.0.1) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:403:in `_run__3560991492106616696__process_action__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.0.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.0.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.0.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.0.1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action'
+  activerecord (4.0.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.0.1) lib/abstract_controller/base.rb:136:in `process'
+  actionpack (4.0.1) lib/abstract_controller/rendering.rb:44:in `process'
+  actionpack (4.0.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.0.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.0.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.0.1) lib/action_dispatch/routing/route_set.rb:680:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/flash.rb:241:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/cookies.rb:486:in `call'
+  activerecord (4.0.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.0.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+  activerecord (4.0.1) lib/active_record/migration.rb:369:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:373:in `_run__1873190154720303266__call__callbacks'
+  activesupport (4.0.1) lib/active_support/callbacks.rb:80:in `run_callbacks'
+  actionpack (4.0.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/reloader.rb:64:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.0.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `block in tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:25:in `tagged'
+  activesupport (4.0.1) lib/active_support/tagged_logging.rb:67:in `tagged'
+  railties (4.0.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.0.1) lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.0.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.0.1) lib/rails/engine.rb:511:in `call'
+  railties (4.0.1) lib/rails/application.rb:97:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (45.2ms)
+
+
+Started GET "/pages" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 17ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:04 -0500
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-06-23 15:54:12 -0500
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (3.6ms)
+  Rendered users/new.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (3.8ms)
+  Rendered users/new.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 16ms (Views: 15.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:54:52 -0500
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-06-23 15:55:29 -0500
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (7.3ms)
+  Rendered users/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 25ms (Views: 17.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:30 -0500
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (2.2ms)
+  Rendered users/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (2.2ms)
+  Rendered users/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 14ms (Views: 13.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/users" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:32 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 17ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-23 15:55:33 -0500
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 16ms (Views: 15.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-06-23 15:55:34 -0500
+
+
+Started GET "/users/new" for 127.0.0.1 at 2014-06-23 15:55:46 -0500
+Processing by UsersController#new as HTML
+  Rendered users/_form.html.erb (4.7ms)
+  Rendered users/new.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 19ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2014-06-23 15:55:52 -0500
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 19ms (Views: 17.3ms | ActiveRecord: 0.0ms)

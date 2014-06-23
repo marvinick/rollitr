@@ -1,6 +1,5 @@
 <div class="basic-grey">
   <center>
-  <h1>Sign in</h1>
   <%= form_for @user, :html => {:multipart => true} do |f| %>
       <div class='control-group'>
         <h3><span><%= f.label :name %></span></h3>
@@ -9,10 +8,6 @@
       <div class='control-group'>
         <h3><span><%= f.label :email %></span></h3>
         <%= f.text_field :email, class: "form-register" %>
-      </div>
-       <div class='control-group'>
-        <h3><span><%= f.label :password %></span></h3>
-        <%= f.password_field :password, class: "form-register" %>
       </div>
     <center><%= f.submit @user.new_record? ? "Sign up" : "Update", class: 'btn btn-success btn-lg' %></center>
     <% end %>

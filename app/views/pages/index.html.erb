@@ -4,15 +4,7 @@
     <div class="jumbotron">
       <div class="container">
         <h1>ITR: On the Roll</h1>
-        <form>
-          <%= form_for @user, :html => {:multipart => true} do |f| %>
-          <div class='control-group'>
-            <h3><span><%= f.label :Newsletter %></span></h3>
-            <%= f.text_field :email, class: "form-register" %>
-          </div>
-          <br/>
-          <%= f.submit @user.new_record? ? "Sign up" : "Update", class: 'btn btn-success btn-md' %>
-          <% end %>
+        <%= link_to "Join Our Newsletter", new_user_path(@user) %>
         </form>
       </div>
     </div>

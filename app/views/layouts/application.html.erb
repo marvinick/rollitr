@@ -23,6 +23,11 @@
               </li>
             </ul>
             <ul class="pull-right">
+              <% if logged_in? %>
+                  <%= link_to "Log Out", logout_path %>
+                  <% else %>
+                  <%= link_to "Sign in", login_path  %>
+                  <% end %>
               <div class="btn-group">
                 <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                   S*#!
@@ -30,11 +35,6 @@
                 </button>
                 <ul class="dropdown-menu">
                   <li><%= link_to "Menu", menus_path(@menu) %></li>
-                  <% if logged_in? %>
-                  <%= link_to "Log Out", logout_path %>
-                  <% else %>
-                  <%= link_to "Sign in", login_path %>
-                  <% end %>
                 </ul>
               </div>
 

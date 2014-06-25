@@ -1,43 +1,20 @@
-<center><h3>Menu</h3</center>
 <div class="container">
   <div class="row">
-    <div class='col-md-4'>
-      <div class="more-grey">
-        <ul>
-          <%= @menu.title %>
-          <hr/>
-          <%= @menu.menu %>
-          <hr/>
-        </ul>
-        <% if logged_in? %>
-          <td><small><%= link_to "Edit", edit_menu_path %></small></td>
-        <% end %>
-      </div>
-    </div>
-    <div class='col-md-4'>
-      <div class="little-grey">
-        <ul>
-          <%= @menu.title %>
-          <hr/>
-          <%= @menu.menu %>
-          <hr/>
-        </ul>
-        <% if logged_in? %>
-          <td><small><%= link_to "Edit", edit_menu_path %></small></td>
-        <% end %>
-      </div>
-    </div>
-    <div class='col-md-4'>
+    <div class='col-md-2'>
       <div class="most-grey">
-        <ul>
-          <%= @menu.hotfood %>
-          <hr/>
-          <%= @menu.menu %>
-          <hr/>
-        </ul>
+        <h2></h2>
+      </div>
+    </div>
+  <div class="row">
+    <div class='col-md-8'>
+      <div class="more-grey">
+        <h2><%= @menu.title %></h2>
         <% if logged_in? %>
-          <td><small><%= link_to "Edit", edit_menu_path %></small></td>
+          <small><%= link_to "Edit", edit_menu_path %></small>
         <% end %>
+        <p>
+          <%= @menu.menu %>
+        </p>
       </div>
     </div>
   </div>

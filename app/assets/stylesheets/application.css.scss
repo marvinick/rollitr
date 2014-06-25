@@ -161,7 +161,7 @@ body {
 }
 
 .menu {
-  text-align: center;
+
   margin:60px;
   font: 30px Georgia, "Times New Roman", Times, serif;
   max-width: 800px;
@@ -175,15 +175,21 @@ body {
   margin-top:60px;
   }
 
-.menuform {
-  columns: 3;
-  rows: 20;
-}
 
 .more-grey {
-  background: orange;
-  margin-top: 30px;
+  text-align:center;
+  background: #F5F5DC;
+  margin-top: 23px;
+  font: 30px Georgia, "Times New Roman", Times, serif;
+  display:block;
+  padding-top:15px;
+  padding-bottom:15px;
 }
+
+.more-grey p {
+  white-space: pre-line;
+}
+
 
 .little-grey {
   background: green;

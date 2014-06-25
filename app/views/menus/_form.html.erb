@@ -5,7 +5,7 @@
       <%= f.label :title %>
       <%= f.text_field :title %>
       <%= f.label :menu %>
-      <%= f.text_area :menu, size: "60x12" %>
+      <%= f.text_area :menu, class: "food-menu" %>
     </div>
     <center><%= f.submit @menu.new_record? ? "Submit" : "Update", class: 'btn btn-success btn-lg' %></center>
   <% end %>

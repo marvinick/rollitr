@@ -13,6 +13,7 @@ gem "less-rails"
 gem "therubyracer"
 gem "rails_serve_static_assets"
 gem 'omniauth'
+gem 'koala'
 
 group :doc do
   gem 'sdoc', require: false

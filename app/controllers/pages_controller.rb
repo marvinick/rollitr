@@ -12,6 +12,7 @@ def create
   @page = Page.new(page_params)
 
   if @page.save
+    AppMailer.newslette_update(@page).deliver
     flash[:notice] = "Great, you've just send out a new one"
     redirect_to page_path(@page)
   else
